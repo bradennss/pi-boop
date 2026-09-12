@@ -1,6 +1,6 @@
 # pi-boop
 
-A [Pi](https://pi.dev) extension that plays the terminal bell or a custom sound file when Pi finishes a turn and waits for user input.
+A [Pi](https://pi.dev) extension that plays the terminal bell or a custom sound when Pi is waiting for input.
 
 ## How it works
 

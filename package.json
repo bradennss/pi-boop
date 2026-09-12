@@ -1,7 +1,7 @@
 {
   "name": "pi-boop",
   "version": "1.0.0",
-  "description": "Pi extension that plays the terminal bell or a custom sound when Pi waits for input.",
+  "description": "Pi extension that plays the terminal bell or a custom sound when Pi is waiting for input.",
   "type": "module",
   "license": "MIT",
   "author": "Braden Lamb <hi@braden.lol>",
